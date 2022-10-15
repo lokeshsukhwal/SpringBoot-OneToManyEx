@@ -1,0 +1,8 @@
+package com.app.lokesh.entity;
+
+public class Items {
+	private Integer items_Id;
+	private Integer items_Name;
+	private Double items_price;
+	private Integer items_quantity;
+}

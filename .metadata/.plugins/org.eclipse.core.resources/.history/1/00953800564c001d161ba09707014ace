@@ -1,0 +1,7 @@
+package com.app.lokesh.entity;
+
+public class Cart {
+	private Integer cart_Id;
+	private String cart_Name;
+	private Integer cart_Total;
+}
